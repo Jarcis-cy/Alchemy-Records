@@ -1,0 +1,20 @@
+- 炼丹
+  - 原神
+    - [宵宫](records/genshin/yoimiya.md)
+  - BLEACH
+    - [涅音梦](records/bleach/nemu-kurotsuchi.md)
+  - 国风
+    - [长裙](records/guofeng/long-dress.md)
+- 模型
+  - Lora
+    - [二次元](models/lora/anime.md)
+    - [国风](models/lora/guofeng.md)
+    - [真实](models/lora/reality.md)
+  - SD
+    - [国风](models/sd/guofeng.md)
+    - [真实](models/sd/reality.md)
+    - [法式](models/sd/french.md)
+    - [NSFW](models/sd/nsfw.md)
+    - [其他](models/sd/other.md)
+- embedding
+  - [文本反转](embeddings/textual-inversions.md)
