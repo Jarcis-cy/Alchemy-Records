@@ -14,6 +14,7 @@
     - [国风](models/sd/guofeng.md)
     - [真实](models/sd/reality.md)
     - [法式](models/sd/french.md)
+    - [二次元](models/sd/anime.md)
     - [NSFW](models/sd/nsfw.md)
     - [其他](models/sd/other.md)
 - embedding
