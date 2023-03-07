@@ -20,10 +20,16 @@ https://civitai.com/user/Meina
 
 ### 正向prompt
 
+```
+dynamic angle,ultra-detailed, illustration, close-up, straight on, delicate fingers and hands
+```
+
 ### 负向prompt
+
 ```
 (worst quality, low quality:1.4), monochrome, zombie
 ```
+
 ### 其他参数
 
 <!-- tabs:start -->
@@ -55,3 +61,17 @@ https://civitai.com/user/Meina
 <!-- tabs:end -->
 
 ## 佳品展示
+
+<!-- tabs:start -->
+### **1**
+
+![](../../../assets/AI/00118-3873155196.png ':size=40%')
+![](../../../assets/AI/00110-3388254861.png ':size=40%')
+
+### **2**
+
+![](../../../assets/AI/00109-2879157411.png ':size=40%')
+![](../../../assets/AI/00108-2476199797.png ':size=40%')
+
+
+<!-- tabs:end -->
