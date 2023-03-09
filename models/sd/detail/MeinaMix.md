@@ -73,5 +73,9 @@ dynamic angle,ultra-detailed, illustration, close-up, straight on, delicate fing
 ![](../../../assets/AI/00109-2879157411.png ':size=40%')
 ![](../../../assets/AI/00108-2476199797.png ':size=40%')
 
+### **3**
+
+![](../../../assets/AI/00140-2398028793.png ':size=40%')
+![](../../../assets/AI/00142-955343549.png ':size=40%')
 
 <!-- tabs:end -->

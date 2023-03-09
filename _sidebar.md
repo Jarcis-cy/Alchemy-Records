@@ -1,10 +1,12 @@
 - 炼丹
   - 原神
     - [宵宫](records/genshin/yoimiya.md)
+    - [影](records/genshin/yoimiya.md)
   - BLEACH
     - [涅音梦](records/bleach/nemu-kurotsuchi.md)
   - 国风
     - [长裙](records/guofeng/long-dress.md)
+  - [杂图](records/miscellaneous.md)
 - 模型
   - Lora
     - [二次元](models/lora/anime.md)
