@@ -1,7 +1,7 @@
 - 炼丹
   - 原神
     - [宵宫](records/genshin/yoimiya.md)
-    - [影](records/genshin/yoimiya.md)
+    - [影](records/genshin/raiden.md)
   - BLEACH
     - [涅音梦](records/bleach/nemu-kurotsuchi.md)
   - 国风
