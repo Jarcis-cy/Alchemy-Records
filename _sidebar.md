@@ -12,6 +12,7 @@
     - [二次元](models/lora/anime.md)
     - [国风](models/lora/guofeng.md)
     - [真实](models/lora/reality.md)
+    - [明星](models/lora/celebrity.md)
   - SD
     - [国风](models/sd/guofeng.md)
     - [真实](models/sd/reality.md)
