@@ -20,7 +20,6 @@
     - [真实](models/sd/reality.md)
     - [法式](models/sd/french.md)
     - [二次元](models/sd/anime.md)
-    - [NSFW](models/sd/nsfw.md)
     - [其他](models/sd/other.md)
 - embedding
   - [文本反转](embeddings/textual-inversions.md)
