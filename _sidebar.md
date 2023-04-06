@@ -6,6 +6,8 @@
     - [涅音梦](records/bleach/nemu-kurotsuchi.md)
   - 国风
     - [长裙](records/guofeng/long-dress.md)
+  - 二次元
+    - [墨镜女孩]()
   - [杂图](records/miscellaneous.md)
 - 模型
   - Lora
