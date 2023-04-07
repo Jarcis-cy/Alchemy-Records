@@ -7,7 +7,7 @@
   - 国风
     - [长裙](records/guofeng/long-dress.md)
   - 二次元
-    - [墨镜女孩]()
+    - [墨镜女孩](records/anime/sunglasses-girl.md)
   - [杂图](records/miscellaneous.md)
 - 模型
   - Lora
