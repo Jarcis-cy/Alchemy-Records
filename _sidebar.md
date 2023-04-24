@@ -8,6 +8,8 @@
     - [长裙](records/guofeng/long-dress.md)
   - 二次元
     - [墨镜女孩](records/anime/sunglasses-girl.md)
+  - 视频
+    - [跳舞](records/video/dance.md)
   - [杂图](records/miscellaneous.md)
 - 模型
   - Lora
@@ -16,6 +18,8 @@
     - [真实](models/lora/reality.md)
     - [明星](models/lora/celebrity.md)
     - [艺术](models/lora/art.md)
+    - [角色](models/lora/role.md)
+    - [服饰](models/lora/clothes.md)
     - [辅助](models/lora/auxiliary.md)
   - SD
     - [国风](models/sd/guofeng.md)

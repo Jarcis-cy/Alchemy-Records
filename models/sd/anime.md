@@ -2,6 +2,9 @@
 
 1. [MeinaMix](/models/sd/detail/MeinaMix.md)
    <!-- tabs:start -->
+   ### **V9**
+   ![](../../assets/reference/00000.png ':size=40%')
+   ![](../../assets/reference/00002.png ':size=40%')
    ### **V8**
    ![](../../assets/reference/215134.png ':size=40%')
    ![](../../assets/reference/215137.png ':size=40%')
@@ -10,9 +13,15 @@
    ![](../../assets/reference/171153.jpg ':size=40%')
    <!-- tabs:end -->
 2. [Cetus-Mix](https://civitai.com/models/6755/cetus-mix)
-
+   `推荐vae：Pastel-Waifu-Diffusion.vae.pt`
+   <!-- tabs:start -->
+   ### **Coda2**
+   ![](../../assets/reference/04589-1305500227.png ':size=40%')
+   ![](../../assets/reference/04614-2673116784.png ':size=40%')
+   ### **WhaleFall**
    ![](../../assets/reference/04341-3528754501.png ':size=40%')
    ![](../../assets/reference/04357-2152688641.png ':size=40%')
+   <!-- tabs:end -->
 3. [MeinaUnreal](https://civitai.com/models/18798/meinaunreal)
 
    ![](../../assets/reference/246441.png ':size=40%')
@@ -33,3 +42,11 @@
 
    ![](../../assets/reference/175095.webp ':size=40%')
    ![](../../assets/reference/175092.webp ':size=40%')
+6. [ChikMix](https://civitai.com/models/9871/chikmix)
+
+    ![](../../assets/reference/218668.png ':size=40%')
+    ![](../../assets/reference/218670.png ':size=40%')
+7. [ReV Animated](https://civitai.com/models/7371/rev-animated)
+
+   ![](../../assets/reference/00009-735323561.png ':size=40%')
+   ![](../../assets/reference/00021-2937362614.png ':size=40%')
