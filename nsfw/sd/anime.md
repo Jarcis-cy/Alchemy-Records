@@ -3,6 +3,9 @@
 1. [Perfect World 完美世界 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/8281)
    
    <!-- tabs:start -->
+   ### **V3**
+   ![](../../assets/reference/Perfect_WorldV3-1.jpeg ':size=40%')
+   ![](../../assets/reference/Perfect_WorldV3-2.jpeg ':size=50%')
    ### **V2**
    ![](../../assets/reference/199756.png ':size=40%')
    ![](../../assets/reference/199741.png ':size=40%')

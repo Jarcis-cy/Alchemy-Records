@@ -21,6 +21,8 @@
     - [角色](models/lora/role.md)
     - [服饰](models/lora/clothes.md)
     - [辅助](models/lora/auxiliary.md)
+  - Lyco
+    - [真实](models/lyco/reality.md)
   - SD
     - [国风](models/sd/guofeng.md)
     - [真实](models/sd/reality.md)

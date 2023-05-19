@@ -50,3 +50,7 @@
 
    ![](../../assets/reference/00009-735323561.png ':size=40%')
    ![](../../assets/reference/00021-2937362614.png ':size=40%')
+8. [Dark Sushi Mix 大颗寿司Mix](https://civitai.com/models/24779/dark-sushi-mix-mix)
+
+    ![](../../assets/reference/dkssmix.jpeg ':size=40%')
+    ![](../../assets/reference/dkssmix2.jpeg ':size=40%')

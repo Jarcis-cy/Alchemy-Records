@@ -16,3 +16,8 @@
    `Trigger Words：ng_deepnegative_v1_75t`
 
    ![](../assets/reference/xy_grid-0054-2254746851.png ':size=40%')
+4. [negative_hand Negative Embedding](https://civitai.com/models/56519/negativehand-negative-embedding)
+
+   `Trigger Words：negative_hand, negative_hand-neg`
+
+   ![](../assets/reference/Aurora_preview.png ':size=40%')
