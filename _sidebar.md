@@ -8,6 +8,8 @@
     - [长裙](records/guofeng/long-dress.md)
   - 二次元
     - [墨镜女孩](records/anime/sunglasses-girl.md)
+  - 真实
+    - [彩虹女孩](records/reality/Rainbow-girl.md)
   - 视频
     - [跳舞](records/video/dance.md)
   - [杂图](records/miscellaneous.md)
